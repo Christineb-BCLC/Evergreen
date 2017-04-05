@@ -1,0 +1,79 @@
+Record Buckets
+--------------
+
+Record Buckets are containers for bibiographic records. [Add More explanation]
+
+The _Record Bucket_ interface is accessed by going to *Cataloguing* -> *Record Buckets*.
+
+image::media/record-bucket-1.png[Cataloguing Menu]
+
+Managing Record Buckets
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Creating Record Buckets
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Record buckets can be created in the _Record Bucket_ interface as well as on the fly from a catalogue search or from within the _Item Status_ interface.  For information on creating buckets on the fly see _Adding Records to a Bucket_ (needs section ID).
+
+Editing Record Buckets
+^^^^^^^^^^^^^^^^^^^^^^
+
+Deleting Record Buckets
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Shared Buckets
+^^^^^^^^^^^^^^
+
+Adding Bibliographic Records to a Bucket
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+From the Record Bucket Interface
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Click *Record Query*
++
+image::media/
++
+
+
+From a Catalogue Search
+^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Retrieve the title through a catalogue search.
+2. Click *Add to Bucket*
++
+image::media/record-bucket-add.png[Record Bucket Interface]
++
+3. Enter a name for your bucket or select an existing from the drop down menu.
++
+image::media/record-bucket-add-1.png[Record Bucket Interface]
++
+4. Click *Add To New Bucket* or *Add To Selected Bucket*.
++
+image::media/record-bucket-add-2.png[Record Bucket Interface]
++
+5. Repeat steps 1 through 4 to add additional copies.
+
+From the Item Status Interface
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Actions
+~~~~~~~
+
+Show Selected Records in Catalog
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Remove Selected Records from Bucket
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Delete Selected Records from Catalog
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Transfer Title Holds
+^^^^^^^^^^^^^^^^^^^^
+
+Merge Selected Records
+^^^^^^^^^^^^^^^^^^^^^^
+
+Export Records
+^^^^^^^^^^^^^^
